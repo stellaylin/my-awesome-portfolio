@@ -1709,21 +1709,21 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #bfece3;
+  background-color: #ecbfcd;
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #88dccc;
+  border-color: #ecbfcd;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #abe6da;
+  background-color: #ecbfcd;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #abe6da;
+  background-color: #ecbfcd;
 }
 
 .table-secondary,
@@ -1749,41 +1749,41 @@ pre code {
 .table-success,
 .table-success > th,
 .table-success > td {
-  background-color: #c3e6cb;
+  background-color: #e6c3d9;
 }
 .table-success th,
 .table-success td,
 .table-success thead th,
 .table-success tbody + tbody {
-  border-color: #8fd19e;
+  border-color: #e39dbc;
 }
 
 .table-hover .table-success:hover {
-  background-color: #b1dfbb;
+  background-color: #e39dbc;
 }
 .table-hover .table-success:hover > td,
 .table-hover .table-success:hover > th {
-  background-color: #b1dfbb;
+  background-color: #e39dbc;
 }
 
 .table-info,
 .table-info > th,
 .table-info > td {
-  background-color: #bee5eb;
+  background-color: #f7c6e9
 }
 .table-info th,
 .table-info td,
 .table-info thead th,
 .table-info tbody + tbody {
-  border-color: #86cfda;
+  border-color: #e39dbc;
 }
 
 .table-hover .table-info:hover {
-  background-color: #abdde5;
+  background-color: #f7c6e9;
 }
 .table-hover .table-info:hover > td,
 .table-hover .table-info:hover > th {
-  background-color: #abdde5;
+  background-color: #f7c6e9;
 }
 
 .table-warning,
@@ -2445,12 +2445,12 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
+  background-color: #ff6385;
   border-color: #ff6385;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #159a80;
+  background-color: #ff6385;
   border-color: #ff6385;
   box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
 }
@@ -4874,7 +4874,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   border-color: #bee5eb;
 }
 .alert-info hr {
-  border-top-color: #abdde5;
+  border-top-color: #f7c6e9;
 }
 .alert-info .alert-link {
   color: #062c33;
@@ -5232,7 +5232,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 .list-group-item-info.list-group-item-action:hover, .list-group-item-info.list-group-item-action:focus {
   color: #0c5460;
-  background-color: #abdde5;
+  background-color: #f7c6e9;
 }
 .list-group-item-info.list-group-item-action.active {
   color: #fff;
